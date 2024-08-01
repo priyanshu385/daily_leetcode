@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1241-decompress-run-length-encoded-list](https://github.com/priyanshu385/daily_leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu385/daily_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/priyanshu385/daily_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1603-running-sum-of-1d-array) |
