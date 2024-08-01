@@ -49,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/priyanshu385/daily_leetcode/tree/master/3226-minimum-number-game) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/priyanshu385/daily_leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
