@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/priyanshu385/daily_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1806-count-of-matches-in-tournament](https://github.com/priyanshu385/daily_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [3226-minimum-number-game](https://github.com/priyanshu385/daily_leetcode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -53,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1806-count-of-matches-in-tournament](https://github.com/priyanshu385/daily_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/priyanshu385/daily_leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
