@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu385/daily_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1944-truncate-sentence](https://github.com/priyanshu385/daily_leetcode/tree/master/1944-truncate-sentence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/priyanshu385/daily_leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3226-minimum-number-game](https://github.com/priyanshu385/daily_leetcode/tree/master/3226-minimum-number-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/priyanshu385/daily_leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1944-truncate-sentence](https://github.com/priyanshu385/daily_leetcode/tree/master/1944-truncate-sentence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/priyanshu385/daily_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
