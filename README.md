@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/priyanshu385/daily_leetcode/tree/master/1944-truncate-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/priyanshu385/daily_leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/priyanshu385/daily_leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/priyanshu385/daily_leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1944-truncate-sentence](https://github.com/priyanshu385/daily_leetcode/tree/master/1944-truncate-sentence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/priyanshu385/daily_leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
