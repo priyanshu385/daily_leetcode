@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1651-shuffle-string](https://github.com/priyanshu385/daily_leetcode/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/priyanshu385/daily_leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/priyanshu385/daily_leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1944-truncate-sentence](https://github.com/priyanshu385/daily_leetcode/tree/master/1944-truncate-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
