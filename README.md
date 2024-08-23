@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/priyanshu385/daily_leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/priyanshu385/daily_leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/priyanshu385/daily_leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/priyanshu385/daily_leetcode/tree/master/3226-minimum-number-game) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/priyanshu385/daily_leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/priyanshu385/daily_leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2406-decode-the-message](https://github.com/priyanshu385/daily_leetcode/tree/master/2406-decode-the-message) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/priyanshu385/daily_leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3412-permutation-difference-between-two-strings](https://github.com/priyanshu385/daily_leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Greedy
 |  |
