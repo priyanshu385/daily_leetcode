@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/priyanshu385/daily_leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/priyanshu385/daily_leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/priyanshu385/daily_leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/priyanshu385/daily_leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/priyanshu385/daily_leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/priyanshu385/daily_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/priyanshu385/daily_leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
 | ------- |
