@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu385/daily_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/priyanshu385/daily_leetcode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/1656-count-good-triplets) |
 | [1944-truncate-sentence](https://github.com/priyanshu385/daily_leetcode/tree/master/1944-truncate-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/priyanshu385/daily_leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Queue
 |  |
