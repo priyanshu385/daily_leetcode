@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/priyanshu385/daily_leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/priyanshu385/daily_leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/priyanshu385/daily_leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/priyanshu385/daily_leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/priyanshu385/daily_leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/priyanshu385/daily_leetcode/tree/master/3226-minimum-number-game) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/priyanshu385/daily_leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/priyanshu385/daily_leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Queue
 |  |
 | ------- |
