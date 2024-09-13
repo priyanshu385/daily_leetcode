@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/priyanshu385/daily_leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/priyanshu385/daily_leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/priyanshu385/daily_leetcode/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/priyanshu385/daily_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/priyanshu385/daily_leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/priyanshu385/daily_leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/priyanshu385/daily_leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/priyanshu385/daily_leetcode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/priyanshu385/daily_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/priyanshu385/daily_leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/priyanshu385/daily_leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/priyanshu385/daily_leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu385/daily_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/priyanshu385/daily_leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/priyanshu385/daily_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
