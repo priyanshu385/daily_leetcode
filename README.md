@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/priyanshu385/daily_leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [1241-decompress-run-length-encoded-list](https://github.com/priyanshu385/daily_leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/priyanshu385/daily_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu385/daily_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/priyanshu385/daily_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu385/daily_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/priyanshu385/daily_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/priyanshu385/daily_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/priyanshu385/daily_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
