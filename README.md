@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/priyanshu385/daily_leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/1656-count-good-triplets) |
+| [1848-sum-of-unique-elements](https://github.com/priyanshu385/daily_leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/priyanshu385/daily_leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/priyanshu385/daily_leetcode/tree/master/1944-truncate-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu385/daily_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu385/daily_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1848-sum-of-unique-elements](https://github.com/priyanshu385/daily_leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyanshu385/daily_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/priyanshu385/daily_leetcode/tree/master/2406-decode-the-message) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu385/daily_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1848-sum-of-unique-elements](https://github.com/priyanshu385/daily_leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/priyanshu385/daily_leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/priyanshu385/daily_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
