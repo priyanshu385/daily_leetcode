@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/priyanshu385/daily_leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/priyanshu385/daily_leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3412-permutation-difference-between-two-strings](https://github.com/priyanshu385/daily_leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/priyanshu385/daily_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3567-convert-date-to-binary](https://github.com/priyanshu385/daily_leetcode/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/priyanshu385/daily_leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/priyanshu385/daily_leetcode/tree/master/3226-minimum-number-game) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/priyanshu385/daily_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
