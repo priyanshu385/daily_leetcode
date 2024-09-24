@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/priyanshu385/daily_leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/priyanshu385/daily_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/priyanshu385/daily_leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/priyanshu385/daily_leetcode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu385/daily_leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/priyanshu385/daily_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2777-find-the-distinct-difference-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/priyanshu385/daily_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/priyanshu385/daily_leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/priyanshu385/daily_leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/priyanshu385/daily_leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/priyanshu385/daily_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/priyanshu385/daily_leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/priyanshu385/daily_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Prefix Sum
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/priyanshu385/daily_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/priyanshu385/daily_leetcode/tree/master/2383-add-two-integers) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/priyanshu385/daily_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/priyanshu385/daily_leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3567-convert-date-to-binary](https://github.com/priyanshu385/daily_leetcode/tree/master/3567-convert-date-to-binary) |
