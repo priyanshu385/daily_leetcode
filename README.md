@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [0979-di-string-match](https://github.com/priyanshu385/daily_leetcode/tree/master/0979-di-string-match) |
 | [1241-decompress-run-length-encoded-list](https://github.com/priyanshu385/daily_leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1319-unique-number-of-occurrences](https://github.com/priyanshu385/daily_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyanshu385/daily_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu385/daily_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
+| [1319-unique-number-of-occurrences](https://github.com/priyanshu385/daily_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu385/daily_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu385/daily_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/priyanshu385/daily_leetcode/tree/master/1848-sum-of-unique-elements) |
