@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/priyanshu385/daily_leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3412-permutation-difference-between-two-strings](https://github.com/priyanshu385/daily_leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/priyanshu385/daily_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/priyanshu385/daily_leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3567-convert-date-to-binary](https://github.com/priyanshu385/daily_leetcode/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshu385/daily_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/priyanshu385/daily_leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
