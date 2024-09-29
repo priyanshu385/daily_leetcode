@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/priyanshu385/daily_leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
+| [0841-shortest-distance-to-a-character](https://github.com/priyanshu385/daily_leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/priyanshu385/daily_leetcode/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/priyanshu385/daily_leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu385/daily_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/priyanshu385/daily_leetcode/tree/master/0742-to-lower-case) |
+| [0841-shortest-distance-to-a-character](https://github.com/priyanshu385/daily_leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/priyanshu385/daily_leetcode/tree/master/0979-di-string-match) |
 | [1454-remove-palindromic-subsequences](https://github.com/priyanshu385/daily_leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/priyanshu385/daily_leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu385/daily_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/priyanshu385/daily_leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/priyanshu385/daily_leetcode/tree/master/0979-di-string-match) |
 | [1454-remove-palindromic-subsequences](https://github.com/priyanshu385/daily_leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1894-merge-strings-alternately](https://github.com/priyanshu385/daily_leetcode/tree/master/1894-merge-strings-alternately) |
