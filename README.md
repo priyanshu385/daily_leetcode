@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/priyanshu385/daily_leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyanshu385/daily_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priyanshu385/daily_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/priyanshu385/daily_leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu385/daily_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/priyanshu385/daily_leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/priyanshu385/daily_leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/priyanshu385/daily_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/priyanshu385/daily_leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/priyanshu385/daily_leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/priyanshu385/daily_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2639-separate-the-digits-in-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/priyanshu385/daily_leetcode/tree/master/2886-faulty-keyboard) |
