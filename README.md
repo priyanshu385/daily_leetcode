@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/priyanshu385/daily_leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshu385/daily_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2365-percentage-of-letter-in-string](https://github.com/priyanshu385/daily_leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/priyanshu385/daily_leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/priyanshu385/daily_leetcode/tree/master/2406-decode-the-message) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/priyanshu385/daily_leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
