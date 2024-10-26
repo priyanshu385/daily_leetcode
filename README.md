@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu385/daily_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2159-two-out-of-three](https://github.com/priyanshu385/daily_leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/priyanshu385/daily_leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyanshu385/daily_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priyanshu385/daily_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2159-two-out-of-three](https://github.com/priyanshu385/daily_leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/priyanshu385/daily_leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/priyanshu385/daily_leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/priyanshu385/daily_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu385/daily_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2159-two-out-of-three](https://github.com/priyanshu385/daily_leetcode/tree/master/2159-two-out-of-three) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/priyanshu385/daily_leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/priyanshu385/daily_leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/priyanshu385/daily_leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
