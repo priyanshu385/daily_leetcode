@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu385/daily_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/priyanshu385/daily_leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/priyanshu385/daily_leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/priyanshu385/daily_leetcode/tree/master/0979-di-string-match) |
 | [1454-remove-palindromic-subsequences](https://github.com/priyanshu385/daily_leetcode/tree/master/1454-remove-palindromic-subsequences) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshu385/daily_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Sliding Window
 |  |
