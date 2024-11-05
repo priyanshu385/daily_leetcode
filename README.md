@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/priyanshu385/daily_leetcode/tree/master/1944-truncate-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/priyanshu385/daily_leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2058-concatenation-of-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu385/daily_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/priyanshu385/daily_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/priyanshu385/daily_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/priyanshu385/daily_leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2058-concatenation-of-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/priyanshu385/daily_leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/priyanshu385/daily_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2639-separate-the-digits-in-an-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2639-separate-the-digits-in-an-array) |
