@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/priyanshu385/daily_leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [0841-shortest-distance-to-a-character](https://github.com/priyanshu385/daily_leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/priyanshu385/daily_leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu385/daily_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu385/daily_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu385/daily_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/priyanshu385/daily_leetcode/tree/master/0191-number-of-1-bits) |
 ## Number Theory
 |  |
