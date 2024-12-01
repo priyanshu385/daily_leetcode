@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu385/daily_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/priyanshu385/daily_leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [0841-shortest-distance-to-a-character](https://github.com/priyanshu385/daily_leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyanshu385/daily_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/priyanshu385/daily_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshu385/daily_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu385/daily_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/priyanshu385/daily_leetcode/tree/master/0841-shortest-distance-to-a-character) |
