@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu385/daily_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/priyanshu385/daily_leetcode/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu385/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/priyanshu385/daily_leetcode/tree/master/0238-product-of-array-except-self) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyanshu385/daily_leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu385/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu385/daily_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu385/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
