@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/priyanshu385/daily_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/priyanshu385/daily_leetcode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0561-array-partition](https://github.com/priyanshu385/daily_leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [0841-shortest-distance-to-a-character](https://github.com/priyanshu385/daily_leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyanshu385/daily_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/priyanshu385/daily_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -321,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyanshu385/daily_leetcode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
