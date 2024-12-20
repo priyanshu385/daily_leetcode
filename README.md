@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/priyanshu385/daily_leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/priyanshu385/daily_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshu385/daily_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0088-merge-sorted-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/priyanshu385/daily_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/priyanshu385/daily_leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanshu385/daily_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/0054-spiral-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String Matching
