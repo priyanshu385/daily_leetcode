@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/priyanshu385/daily_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/priyanshu385/daily_leetcode/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/priyanshu385/daily_leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
