@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/priyanshu385/daily_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/priyanshu385/daily_leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshu385/daily_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu385/daily_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/priyanshu385/daily_leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/priyanshu385/daily_leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu385/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu385/daily_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/priyanshu385/daily_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String Matching
 |  |
