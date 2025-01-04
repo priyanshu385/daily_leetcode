@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/priyanshu385/daily_leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/priyanshu385/daily_leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/priyanshu385/daily_leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/priyanshu385/daily_leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyanshu385/daily_leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/priyanshu385/daily_leetcode/tree/master/0067-add-binary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/priyanshu385/daily_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/priyanshu385/daily_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/priyanshu385/daily_leetcode/tree/master/2058-concatenation-of-array) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/priyanshu385/daily_leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/priyanshu385/daily_leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyanshu385/daily_leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/priyanshu385/daily_leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/priyanshu385/daily_leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/priyanshu385/daily_leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0189-rotate-array) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/priyanshu385/daily_leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/priyanshu385/daily_leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priyanshu385/daily_leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/priyanshu385/daily_leetcode/tree/master/0190-reverse-bits) |
