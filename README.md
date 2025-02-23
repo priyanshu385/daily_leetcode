@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshu385/daily_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyanshu385/daily_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu385/daily_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshu385/daily_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/priyanshu385/daily_leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/priyanshu385/daily_leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/priyanshu385/daily_leetcode/tree/master/0136-single-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu385/daily_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/priyanshu385/daily_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyanshu385/daily_leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshu385/daily_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/priyanshu385/daily_leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/priyanshu385/daily_leetcode/tree/master/0383-ransom-note) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/priyanshu385/daily_leetcode/tree/master/0050-powx-n) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshu385/daily_leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
