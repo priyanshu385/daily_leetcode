@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/priyanshu385/daily_leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshu385/daily_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu385/daily_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/priyanshu385/daily_leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [0841-shortest-distance-to-a-character](https://github.com/priyanshu385/daily_leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu385/daily_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/priyanshu385/daily_leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu385/daily_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu385/daily_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/priyanshu385/daily_leetcode/tree/master/0645-set-mismatch) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/priyanshu385/daily_leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu385/daily_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/priyanshu385/daily_leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu385/daily_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/priyanshu385/daily_leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/priyanshu385/daily_leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## String
